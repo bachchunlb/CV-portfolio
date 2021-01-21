@@ -1,0 +1,149 @@
+*{margin: 0;
+padding: 0;}
+
+body{background-color: #EEE;
+font-family: 'Roboto', sans-serif;}
+
+
+.container{background-color: #e4f9f5;
+max-width: 1000px;
+    margin: 0 auto;
+    padding:20px;
+}
+
+.profile-image{
+    width:100px;
+    height: 120px;
+    border:3px solid white;
+    border-radius:50%;
+    float: left;
+    
+}
+
+.title
+{
+    float:left;
+    padding:35px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    
+    color:#11999e;
+}
+
+.bio-contact{
+    float:right;
+    padding:25px;
+    
+}
+
+.bio-contact a{
+    text-decoration: none;
+    color:teal;
+    font-weight: bold;
+}
+
+.bio-contact a:hover{color:tomato;
+text-decoration: underline;}
+
+.div-clear{
+    clear:both;
+}
+
+hr{border:2px solid black;
+margin:20px auto;
+border-bottom:none;
+width:100%}
+
+/*personala information*/
+
+.left-per{
+    float:left;
+    width:30%;
+    
+}
+
+.right-per{
+    float:left;
+    width:70%;
+}
+
+.line-1{
+    border:2px solid black;
+margin:20px auto;
+border-bottom:none;
+width:100%
+}
+
+.clear-2{
+    clear: both;
+}
+
+/* Job History*/
+
+.left-per1{
+    float: left;
+    width:30%;
+}
+
+.right-per1{
+    float: left;
+    width:70%;
+}
+
+/*project table*/
+
+.project-table{
+    border:2px solid black;
+    width:100%;
+    border-collapse:collapse;
+}
+
+.th-col{
+    border:2px solid black;
+    text-align: center;
+}
+
+td a{
+    text-decoration: none;
+    color:teal;
+    font-weight: bold;
+    
+    
+}
+
+/*PROFESSIONAL QUALIFICATIONS: DIPLOMA IN DATABASE DESIGN & DEVELOPMENT*/
+.header-dec{
+    border:3px solid white;
+    background-color: aqua;
+    border-radius:10px;
+    color:black;
+    border-width:2px;
+    padding:10px;
+    text-align: center;
+}
+
+.table-pqd{
+    border:2px solid black;
+    width:900px;
+    margin: 2px auto;
+    border-collapse:collapse;
+}
+
+.pqdddd {border:2px solid black;
+text-align: center;
+padding:5px;}
+
+/*PERSONAL ATTRIBUTES*/
+.hard-skill{margin: 0 auto;
+}
+
+/*personal information*/
+.pi{
+    text-align: left;
+    border:2px solid black;
+    padding:2px;
+}
+
+
+
